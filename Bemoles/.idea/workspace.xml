@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3e5e0c0-1eef-4925-ad6f-3fe4aa996793" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y7QuEEAuQL8vqoASj9RZCrru3c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LeeFichero">
+    <configuration name="EscribeFichero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EscribeFichero" />
+      <module name="Archivo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeeFichero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeeFichero" />
+      <module name="Archivo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JinetesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Archivo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JinetesTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PonyExpress.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Archivo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PonyExpress" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeeFichero" />
+        <item itemvalue="Application.EscribeFichero" />
+        <item itemvalue="JUnit.PonyExpress.test" />
+        <item itemvalue="JUnit.JinetesTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3e5e0c0-1eef-4925-ad6f-3fe4aa996793" name="Default Changelist" comment="" />
+      <created>1582291373451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582291373451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="97" width="541" height="607" key="#com.intellij.ide.util.MemberChooser" timestamp="1582733906928">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="456" y="97" width="541" height="607" key="#com.intellij.ide.util.MemberChooser/0.27.1296.741@0.27.1296.741" timestamp="1582733906928" />
+    <state x="331" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582744432916">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="331" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1296.741@0.27.1296.741" timestamp="1582744432916" />
+    <state x="279" y="27" width="727" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582337536934">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="279" y="27" width="727" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1296.741@0.27.1296.741" timestamp="1582337536934" />
+    <state width="1250" height="216" key="GridCell.Tab.0.bottom" timestamp="1582744463423">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="216" key="GridCell.Tab.0.bottom/0.27.1296.741@0.27.1296.741" timestamp="1582744463423" />
+    <state width="1250" height="216" key="GridCell.Tab.0.center" timestamp="1582744463422">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="216" key="GridCell.Tab.0.center/0.27.1296.741@0.27.1296.741" timestamp="1582744463422" />
+    <state width="1250" height="216" key="GridCell.Tab.0.left" timestamp="1582744463420">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="216" key="GridCell.Tab.0.left/0.27.1296.741@0.27.1296.741" timestamp="1582744463420" />
+    <state width="1250" height="216" key="GridCell.Tab.0.right" timestamp="1582744463423">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="216" key="GridCell.Tab.0.right/0.27.1296.741@0.27.1296.741" timestamp="1582744463423" />
+    <state width="1250" height="177" key="GridCell.Tab.1.bottom" timestamp="1582401376026">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="177" key="GridCell.Tab.1.bottom/0.27.1296.741@0.27.1296.741" timestamp="1582401376026" />
+    <state width="1250" height="177" key="GridCell.Tab.1.center" timestamp="1582401376026">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="177" key="GridCell.Tab.1.center/0.27.1296.741@0.27.1296.741" timestamp="1582401376026" />
+    <state width="1250" height="177" key="GridCell.Tab.1.left" timestamp="1582401376026">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="177" key="GridCell.Tab.1.left/0.27.1296.741@0.27.1296.741" timestamp="1582401376026" />
+    <state width="1250" height="177" key="GridCell.Tab.1.right" timestamp="1582401376026">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="177" key="GridCell.Tab.1.right/0.27.1296.741@0.27.1296.741" timestamp="1582401376026" />
+    <state x="121" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1582332136547">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="121" y="27" width="1022" height="737" key="SettingsEditor/0.27.1296.741@0.27.1296.741" timestamp="1582332136547" />
+    <state x="315" y="291" width="646" height="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582334882104">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="315" y="291" width="646" height="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1296.741@0.27.1296.741" timestamp="1582334882104" />
+    <state x="422" y="45" width="442" height="712" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582334885169">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="422" y="45" width="442" height="712" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1296.741@0.27.1296.741" timestamp="1582334885169" />
+    <state x="568" y="27" width="728" height="741" key="find.popup" timestamp="1582726139838">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="568" y="27" width="728" height="741" key="find.popup/0.27.1296.741@0.27.1296.741" timestamp="1582726139838" />
+    <state x="0" y="27" width="1286" height="741" key="new project wizard" timestamp="1582731251129">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="0" y="27" width="1286" height="741" key="new project wizard/0.27.1296.741@0.27.1296.741" timestamp="1582731251129" />
+    <state x="312" y="174" key="run.anything.popup" timestamp="1582727018020">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="312" y="174" key="run.anything.popup/0.27.1296.741@0.27.1296.741" timestamp="1582727018020" />
+    <state x="311" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582327662905">
+      <screen x="0" y="27" width="1296" height="741" />
+    </state>
+    <state x="311" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1296.741@0.27.1296.741" timestamp="1582327662905" />
+  </component>
+</project>
